@@ -5,9 +5,9 @@ public class Member {
 	String id;
 	String password;
 	int age;
-	public Member(String name,String id) {
+	public Member(String id,String password) {
 		this.id=id;
-		this password=password;
+		this.password=password;
 		
 	}
 }
