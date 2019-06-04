@@ -1,4 +1,4 @@
-package ye;
+package ch07;
 
 public class Calculator {
 	
